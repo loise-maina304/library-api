@@ -23,7 +23,7 @@ A simple REST API built using FastAPI and SQLModel for managing books in a libra
 
 ## Project Structure
 
-```
+```text
 library-api/
 │
 ├── database/
@@ -35,10 +35,15 @@ library-api/
 │   ├── book.py
 │   └── category.py
 │
+├── screenshots/
+│   ├── Swagger_UI.png
+│   └── PostgreSQL_Books_Table.png
+│
 ├── main.py
 ├── docker-compose.yml
 ├── .env
 ├── pyproject.toml
+├── uv.lock
 └── README.md
 ```
 
