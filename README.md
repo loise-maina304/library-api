@@ -70,6 +70,19 @@ http://127.0.0.1:8000/docs
 ### PostgreSQL Books Table
 ![PostgreSQL Books Table](screenshots/PostgreSQL_Books_Table.png)
 
+## Exercise Files
+
+### Exercise 1 – Category Model
+- [models/category.py](models/category.py)
+- [models/book.py](models/book.py)
+- [main.py](main.py)
+
+### Exercise 2 – Search Endpoint
+- [main.py](main.py)
+
+### Exercise 3 – Update Endpoint
+- [main.py](main.py)
+
 ## Author
 
 **Name:** Loise Maina
