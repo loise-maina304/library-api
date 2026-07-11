@@ -57,6 +57,13 @@ uv run uvicorn main:app --reload
 ```
 http://127.0.0.1:8000/docs
 ```
+## Screenshots
+
+### Swagger UI
+![Swagger UI](screenshots/Swagger_UI.png)
+
+### PostgreSQL Books Table
+![PostgreSQL Books Table](screenshots/PostgreSQL_Books_Table.png)
 
 ## Author
 
